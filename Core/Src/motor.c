@@ -1,7 +1,7 @@
 #include <motor.h>
 
 #define INTEGRAL_GAIN_MAX 20000
-#define PID_MAX 32767
+#define PID_MAX 16383
 
 
 // Set PID gains
